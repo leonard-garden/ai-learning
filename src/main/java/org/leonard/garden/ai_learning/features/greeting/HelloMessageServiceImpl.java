@@ -1,4 +1,4 @@
-package org.leonard.garden.ai_learning.service;
+package org.leonard.garden.ai_learning.features.greeting;
 
 import com.anthropic.client.AnthropicClient;
 import com.anthropic.models.messages.CacheControlEphemeral;
